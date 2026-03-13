@@ -1,0 +1,7 @@
+node_modules/
+build/
+.docusaurus/
+.cache/
+.env
+.obsidian/workspace.json
+.obsidian/cache
