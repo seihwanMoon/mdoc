@@ -1,0 +1,8 @@
+{
+  "label": "배포 운영",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "03-배포운영/index"
+  }
+}
