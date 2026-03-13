@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-{}
-=======
-{}
->>>>>>> c37a6a2e2c0b2db824402cb9ae85ff57a436eece
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assets"
+}
