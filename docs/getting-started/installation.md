@@ -1,0 +1,23 @@
+---
+sidebar_position: 3
+---
+
+# 설치
+
+## 요구 사항
+
+- Node.js 20 이상
+- npm
+
+## 실행
+
+```bash
+npm install
+npm run start
+```
+
+## 빌드
+
+```bash
+npm run build
+```
